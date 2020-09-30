@@ -16,5 +16,10 @@ This repository is a compiled list of my past webinars/meetups, their code repos
       * [Code](https://github.com/bismillahkani/detection-transformers)
       * [Event Page](https://www.meetup.com/Disrupt-4-0/events/xqxlsrybclbcb/)
       * [Recording](https://www.youtube.com/watch?v=pKFvA2S_n7Y) (Restricted access)
+      
+4. Chest X-ray Analyzer - AI Research Day
+      * [Event Page](https://www.meetup.com/Disrupt-4-0/events/271797814/)
+      * [Recording](https://www.youtube.com/watch?v=jrLbRh176I8)
+      * [Product](https://ai.cellstrat.com/)
 
 
