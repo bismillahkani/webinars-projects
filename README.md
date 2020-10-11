@@ -16,6 +16,7 @@ This repository is a compiled list of my past webinars/meetups, their code repos
       * [Code](https://github.com/bismillahkani/detection-transformers)
       * [Event Page](https://www.meetup.com/Disrupt-4-0/events/xqxlsrybclbcb/)
       * [Recording](https://www.youtube.com/watch?v=pKFvA2S_n7Y) (Restricted access)
+      * [Blog](https://www.cellstrat.com/2020/08/07/end-to-end-object-detection-with-transformers/)
       
 4. Chest X-ray Analyzer - AI Research Day
       * [Event Page](https://www.meetup.com/Disrupt-4-0/events/271797814/)
@@ -30,5 +31,7 @@ This repository is a compiled list of my past webinars/meetups, their code repos
 6. Practical Introduction to AWS SageMaker
       * [Event Page](https://www.meetup.com/Disrupt-4-0/events/271536622/)
       * [Code](https://github.com/bismillahkani/Practical-Introduction-To-AWS-SageMaker)
+      * [Recording](https://www.youtube.com/watch?v=0fhayg9aPek) (Restricted access)
+      * [Blog](https://www.cellstrat.com/2020/09/27/practical-guide-to-deploy-ml-models-in-aws-sagemaker/)
 
 
