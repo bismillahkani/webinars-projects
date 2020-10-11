@@ -24,14 +24,14 @@ This repository is a compiled list of my past webinars/meetups, their code repos
       * [Product Website](https://ai.cellstrat.com/)
       
 5. Object detection with RCNN family
+      * [Code](https://github.com/bismillahkani/object-detection-rcnn-family)
       * [Session 1](https://www.meetup.com/Disrupt-4-0/events/272547378/)
       * [Session 2](https://www.meetup.com/Disrupt-4-0/events/272927751/)
       * [Recording](https://www.youtube.com/watch?v=D9fjievbljo) (Restricted access)
-      * [Code](https://github.com/bismillahkani/object-detection-rcnn-family)
-      
+            
 6. Practical Introduction to AWS SageMaker
-      * [Event Page](https://www.meetup.com/Disrupt-4-0/events/271536622/)
       * [Code](https://github.com/bismillahkani/Practical-Introduction-To-AWS-SageMaker)
+      * [Event Page](https://www.meetup.com/Disrupt-4-0/events/271536622/)      
       * [Recording](https://www.youtube.com/watch?v=0fhayg9aPek) (Restricted access)
       * [Blog](https://www.cellstrat.com/2020/09/27/practical-guide-to-deploy-ml-models-in-aws-sagemaker/)
 
