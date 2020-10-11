@@ -27,6 +27,7 @@ This repository is a compiled list of my past webinars/meetups, their code repos
       * [Session 1](https://www.meetup.com/Disrupt-4-0/events/272547378/)
       * [Session 2](https://www.meetup.com/Disrupt-4-0/events/272927751/)
       * [Recording](https://www.youtube.com/watch?v=D9fjievbljo) (Restricted access)
+      * [Code](https://github.com/bismillahkani/object-detection-rcnn-family)
       
 6. Practical Introduction to AWS SageMaker
       * [Event Page](https://www.meetup.com/Disrupt-4-0/events/271536622/)
