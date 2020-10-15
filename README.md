@@ -1,6 +1,6 @@
-# List of webinars
+# List of webinars or projects
 
-This repository is a compiled list of my past webinars/meetups, their code repos and my future ones as well.
+This repository is a compiled list of my past webinars/meetups/projects, their code repos and my future ones as well.
 
 1. Classification of Imbalanced data
       * [Code](https://github.com/bismillahkani/imbalanced-learning)
@@ -34,5 +34,9 @@ This repository is a compiled list of my past webinars/meetups, their code repos
       * [Event Page](https://www.meetup.com/Disrupt-4-0/events/271536622/)      
       * [Recording](https://www.youtube.com/watch?v=0fhayg9aPek) (Restricted access)
       * [Blog](https://www.cellstrat.com/2020/09/27/practical-guide-to-deploy-ml-models-in-aws-sagemaker/)
+      
+7. Image processing with CNN
+      * [Event Page](https://www.meetup.com/Disrupt-4-0/events/272556573/)
+      * [Code]
 
 
