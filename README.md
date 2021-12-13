@@ -72,6 +72,11 @@ This repository is a compiled list of my past webinars/meetups/projects, their c
       * [Recording](https://drive.google.com/file/d/1YqbcHUxXwAo56yCH-vSGwB3xNbzQar1v/view)
       * [Code](https://github.com/bismillahkani/Vision-Transformers)
 
+15. AWS Serverlss
+      * [Event Page](How to build and deploy Serverless AI on AWS Cloud)
+      * [Recording]() - coming soon
+      * [Code]() - coming soon
+
 
 
 
