@@ -22,6 +22,7 @@ This repository is a compiled list of my past webinars/meetups/projects, their c
       * [Event Page](https://www.meetup.com/Disrupt-4-0/events/271797814/)
       * [Recording](https://www.youtube.com/watch?v=jrLbRh176I8)
       * [Product Website](https://ai.cellstrat.com/)
+      * [Code](https://github.com/bismillahkani/COVID19-Xray-Analyzer)
       
 5. Object detection with RCNN family
       * [Code](https://github.com/bismillahkani/object-detection-rcnn-family)
@@ -37,36 +38,37 @@ This repository is a compiled list of my past webinars/meetups/projects, their c
       
 7. Image processing with CNN
       * [Event Page](https://www.meetup.com/Disrupt-4-0/events/272556573/)
-      * [Code]
+      * [Code](https://colab.research.google.com/drive/1fgTz8Tw1HHfVuyWCWyzjJaMg4SE9DpUd?authuser=1)
      
 8. Image generation with DCGAN and SRGAN
       * [Event Page](https://www.meetup.com/Disrupt-4-0/events/273921687/)
-      * [Code]
+      * [Code](https://drive.google.com/file/d/1heci5laE-T0_1cPeQt1D96j9jIsqkv5q/view?usp=sharing)
 
 9. Human Pose Estimation with Deep Learning
       * [Event Page](https://www.meetup.com/Disrupt-4-0/events/275535348/)
-      * [Code]
+      * [Code](https://drive.google.com/file/d/1h6eWqpWxtcX5CmrUJyr4XyMv_panPMKZ/view?usp=sharing)
 
 10. Face Detection and Recognition
       * [Event Page](https://www.meetup.com/Disrupt-4-0/events/276166688/)
-      * [Code]
+      * [Code](https://drive.google.com/file/d/1G6VyjGDGQqE3iYsGBSwUoAHEoiTsvvGQ/view?usp=sharing) 
+      * [Code](https://colab.research.google.com/drive/1SZHl5QgVAuG8xYJ0n_9ek_89xw75J89l?usp=sharing) 
 
 11. Object Detection with EfficientNet and EfficientDet
       * [Event Page](https://www.meetup.com/Disrupt-4-0/events/277231694/)
-      * [Code]
+      * [Code](https://colab.research.google.com/drive/1oR-lKSw0psaWGatGCv70ih3M0PktVDZa?usp=sharing)
 
 12. Image Segmentation with FCN and DeepLab
       * [Event Page](https://www.meetup.com/Disrupt-4-0/events/277847418/)
-      * [Code]
+      * [Code](https://drive.google.com/file/d/1gMYikYENZslS9KhozG5WefSKr784qvYZ/view?usp=sharing)
 
-13. Image Segmentation with FCN and DeepLab
+13. Video Action Classification using 3DCNN
       * [Event Page](https://www.meetup.com/Disrupt-4-0/events/274670864/)
-      * [Code]
+      * [Code](https://colab.research.google.com/drive/1IgWoCwtPwYgqlEKm3Cml3Gy4e-uCor4r?usp=sharing)
 
 14. Deep Dive into Vision Transformers
       * [Event Page](https://www.meetup.com/TFUGChennai/events/280273283/)
       * [Recording](https://drive.google.com/file/d/1YqbcHUxXwAo56yCH-vSGwB3xNbzQar1v/view)
-      * [Code]
+      * [Code]()
 
 
 
