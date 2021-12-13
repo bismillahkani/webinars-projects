@@ -39,10 +39,12 @@ This repository is a compiled list of my past webinars/meetups/projects, their c
 7. Image processing with CNN
       * [Event Page](https://www.meetup.com/Disrupt-4-0/events/272556573/)
       * [Code](https://colab.research.google.com/drive/1fgTz8Tw1HHfVuyWCWyzjJaMg4SE9DpUd?authuser=1)
+      * [Recording](https://www.youtube.com/watch?v=oi_n1OSHDbo) (Restricted access)
      
 8. Image generation with DCGAN and SRGAN
       * [Event Page](https://www.meetup.com/Disrupt-4-0/events/273921687/)
       * [Code](https://drive.google.com/file/d/1heci5laE-T0_1cPeQt1D96j9jIsqkv5q/view?usp=sharing)
+      * [Recording](https://www.youtube.com/watch?v=yzdQB0sVd90) (Restriced access)
 
 9. Human Pose Estimation with Deep Learning
       * [Event Page](https://www.meetup.com/Disrupt-4-0/events/275535348/)
