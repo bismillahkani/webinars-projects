@@ -38,5 +38,37 @@ This repository is a compiled list of my past webinars/meetups/projects, their c
 7. Image processing with CNN
       * [Event Page](https://www.meetup.com/Disrupt-4-0/events/272556573/)
       * [Code]
+     
+8. Image generation with DCGAN and SRGAN
+      * [Event Page](https://www.meetup.com/Disrupt-4-0/events/273921687/)
+      * [Code]
+
+9. Human Pose Estimation with Deep Learning
+      * [Event Page](https://www.meetup.com/Disrupt-4-0/events/275535348/)
+      * [Code]
+
+10. Face Detection and Recognition
+      * [Event Page](https://www.meetup.com/Disrupt-4-0/events/276166688/)
+      * [Code]
+
+11. Object Detection with EfficientNet and EfficientDet
+      * [Event Page](https://www.meetup.com/Disrupt-4-0/events/277231694/)
+      * [Code]
+
+12. Image Segmentation with FCN and DeepLab
+      * [Event Page](https://www.meetup.com/Disrupt-4-0/events/277847418/)
+      * [Code]
+
+13. Image Segmentation with FCN and DeepLab
+      * [Event Page](https://www.meetup.com/Disrupt-4-0/events/274670864/)
+      * [Code]
+
+14. Deep Dive into Vision Transformers
+      * [Event Page](https://www.meetup.com/TFUGChennai/events/280273283/)
+      * [Recording](https://drive.google.com/file/d/1YqbcHUxXwAo56yCH-vSGwB3xNbzQar1v/view)
+      * [Code]
+
+
+
 
 
