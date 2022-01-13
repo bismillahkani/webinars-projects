@@ -73,9 +73,9 @@ This repository is a compiled list of my past webinars/meetups/projects, their c
       * [Code](https://github.com/bismillahkani/Vision-Transformers)
 
 15. AWS Serverless
-      * [Event Page](How to build and deploy Serverless AI on AWS Cloud)
+      * [Event Page](https://www.meetup.com/Disrupt-4-0/events/282546962/)
       * [Recording]() - coming soon
-      * [Code]() - coming soon
+      * [Code](https://github.com/bismillahkani/AWS-Serverless-AI)
 
 
 
