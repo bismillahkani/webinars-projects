@@ -81,9 +81,3 @@ This repository is a compiled list of my past webinars/meetups/projects, their c
      * [Event Page](https://www.meetup.com/Disrupt-4-0/events/285223941/)
      * [Recording]() - coming soon
      * [Blog](https://www.linkedin.com/feed/update/urn:li:activity:6928906904257671168/)
-     * 
-
-
-
-
-
