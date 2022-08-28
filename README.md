@@ -81,3 +81,10 @@ This repository is a compiled list of my past webinars/meetups/projects, their c
      * [Event Page](https://www.meetup.com/Disrupt-4-0/events/285223941/)
      * [Recording]() - coming soon
      * [Blog](https://www.linkedin.com/feed/update/urn:li:activity:6928906904257671168/)
+     
+16. YOLOv7 - The most powerful object detector
+* [Event Page](https://www.meetup.com/disrupt-4-0/events/287959198/)
+* [Slides](https://docs.google.com/presentation/d/1r2GSDyu1Uf5uSuSseUBSc4wNh0ObhguS/edit?usp=sharing&ouid=115871875343369560787&rtpof=true&sd=true)
+* [Colab](https://colab.research.google.com/drive/10eg0SrkkO8QDYSQOeFsZbxPOKmjYyosy?usp=sharing
+![image](https://user-images.githubusercontent.com/37284248/187056963-c0e567a5-45b6-4073-a24a-348923f1e2f7.png)
+)
