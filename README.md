@@ -87,7 +87,7 @@ This repository is a compiled list of my past webinars/meetups/projects, their c
 * [Slides](https://docs.google.com/presentation/d/1r2GSDyu1Uf5uSuSseUBSc4wNh0ObhguS/edit?usp=sharing&ouid=115871875343369560787&rtpof=true&sd=true)
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/bismillahkani/webinars-projects/blob/master/Training_YOLOv7_on_Custom_Data.ipynb)
 
-17. End-to-end MLOps using AWS Sagemaker
+18. End-to-end MLOps using AWS Sagemaker
 * [Event Page](https://www.meetup.com/disrupt-4-0/events/287033107/)
 * [Slides](https://docs.google.com/presentation/d/1libfsHU-5W36kDz4fILa0UKCDoxbAGES/edit?usp=sharing&ouid=103887850058510011757&rtpof=true&sd=true)
 * [Recording]() - coming soon
