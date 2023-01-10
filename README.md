@@ -91,8 +91,7 @@ This repository is a compiled list of my past webinars/meetups/projects, their c
 18. End-to-end MLOps using AWS Sagemaker
      * [Event Page](https://www.meetup.com/disrupt-4-0/events/287033107/)
      * [Slides](https://docs.google.com/presentation/d/1libfsHU-5W36kDz4fILa0UKCDoxbAGES/edit?usp=sharing&ouid=103887850058510011757&rtpof=true&sd=true)
-     * [Recording]() - coming soon
-     
+     * [Recording](https://drive.google.com/file/d/1aSDeHlKpRZNki3c2Q1LZQO-unIz0PRgP/view)
 19. Build a Text-2-Image Generator with Stable Diffusion
      * [Event Page](https://www.meetup.com/disrupt-4-0/events/290686425/)
 
