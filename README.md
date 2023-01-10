@@ -1,4 +1,4 @@
-# List of AI/ML webinars or projects
+# List of AI/ML and Cloud Technologies webinars or projects
 
 This repository is a compiled list of my past webinars/meetups/projects, their code repos and my future ones as well.
 
