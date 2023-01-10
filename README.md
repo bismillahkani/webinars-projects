@@ -93,6 +93,6 @@ This repository is a compiled list of my past webinars/meetups/projects, their c
      * [Slides](https://docs.google.com/presentation/d/1libfsHU-5W36kDz4fILa0UKCDoxbAGES/edit?usp=sharing&ouid=103887850058510011757&rtpof=true&sd=true)
      * [Recording]() - coming soon
      
-19. Build a Text-2-Image Generator with Stable Diffusio
+19. Build a Text-2-Image Generator with Stable Diffusion
      * [Event Page](https://www.meetup.com/disrupt-4-0/events/290686425/)
 
