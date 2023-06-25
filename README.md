@@ -6,24 +6,41 @@ Generative AI
 =============
 1. Build a Text-2-Image Generator with Stable Diffusion
      * [Event Page](https://www.meetup.com/disrupt-4-0/events/290686425/)
+     * [Slides](https://www.canva.com/design/DAFZaxUx8ag/uS0oi5kxdtGH1SkkVp4mrQ/edit?utm_content=DAFZaxUx8ag&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+     * [Recording](https://www.youtube.com/watch?v=t1DxlR3oVxE)
+2. AWS Community Builders APJ Open Mic May 2023 - Exploring Generative AI with AWS Sagemaker Jumpstart
+     * [Recording](https://youtu.be/EJRFoDWTXJo?t=2830)
+     * [Slides](https://www.canva.com/design/DAFiVma1vbM/7jQSSnbII8jC1v9Gms6Rqw/edit?utm_content=DAFiVma1vbM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+     * [Blog](https://dev.to/aws-builders/generative-ai-using-aws-sagemaker-jumpstart-1ckm)
+3. Google Cloud Community Day 2023 - Exploring GenAI using Diffusion Models
+     * [Slides](https://docs.google.com/presentation/d/1y2MdPOOsUOad2HLMW8oLdXWs89Z-vJwtrotJbRCXhMA/edit#slide=id.g24449df9f19_0_209)
+     * [Code](Coming Soon)
+     * [Event Page](https://www.linkedin.com/feed/update/urn:li:activity:7065272788659355648/)
+4. Exploring GenAI with Diffusion Models
+     * [Slides](https://www.canva.com/design/DAFkcLniFz0/UJeMi5hfx9816vM6__Y_ow/edit?utm_content=DAFkcLniFz0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+     * [Event Page](https://www.meetup.com/bangalore-ai-ml-meetup/events/293296187/
+     * [Community Post](https://www.linkedin.com/feed/update/urn:li:activity:7071458606428155904/)
        
 Cloud
 =====
-1. Practical Introduction to AWS SageMaker
+1. Serverless Saturday - Building and deploying Serverless AI on AWS
+      * [Event Page](https://www.linkedin.com/feed/update/urn:li:activity:7075830769331421184/)      
+      * [Recording](https://www.youtube.com/live/KsRjqM-vXoQ?feature=share&t=8365)
+      * [Code](https://github.com/bismillahkani/AWS-Serverless-AI)
+2. Practical Introduction to AWS SageMaker
       * [Code](https://github.com/bismillahkani/Practical-Introduction-To-AWS-SageMaker)
       * [Event Page](https://www.meetup.com/Disrupt-4-0/events/271536622/)      
       * [Recording](https://www.youtube.com/watch?v=0fhayg9aPek) (Restricted access)
       * [Blog](https://www.cellstrat.com/2020/09/27/practical-guide-to-deploy-ml-models-in-aws-sagemaker/)
-2. AWS Serverless
+3. AWS Serverless
       * [Event Page](https://www.meetup.com/Disrupt-4-0/events/282546962/)
       * [Recording](https://www.youtube.com/watch?v=aSYVz2Nf4Mc&t=1210s)
       * [Code](https://github.com/bismillahkani/AWS-Serverless-AI)
-3. Deployment automation with AWS CDK
+4. Deployment automation with AWS CDK
      * [Event Page](https://www.meetup.com/Disrupt-4-0/events/285223941/)
      * [Recording](https://www.youtube.com/watch?v=QibPrs1LOYY&t=3s)
      * [Blog](https://www.linkedin.com/feed/update/urn:li:activity:6928906904257671168/)
-     * 
-4. End-to-end MLOps using AWS Sagemaker
+5. End-to-end MLOps using AWS Sagemaker
      * [Event Page](https://www.meetup.com/disrupt-4-0/events/287033107/)
      * [Slides](https://docs.google.com/presentation/d/1libfsHU-5W36kDz4fILa0UKCDoxbAGES/edit?usp=sharing&ouid=103887850058510011757&rtpof=true&sd=true)
      * [Recording](https://drive.google.com/file/d/1aSDeHlKpRZNki3c2Q1LZQO-unIz0PRgP/view)
