@@ -30,7 +30,7 @@ Cloud
 2. Practical Introduction to AWS SageMaker
       * [Code](https://github.com/bismillahkani/Practical-Introduction-To-AWS-SageMaker)
       * [Event Page](https://www.meetup.com/Disrupt-4-0/events/271536622/)      
-      * [Recording](https://www.youtube.com/watch?v=0fhayg9aPek) (Restricted access)
+      * [Recording](https://www.youtube.com/watch?v=0fhayg9aPek)
       * [Blog](https://www.cellstrat.com/2020/09/27/practical-guide-to-deploy-ml-models-in-aws-sagemaker/)
 3. AWS Serverless
       * [Event Page](https://www.meetup.com/Disrupt-4-0/events/282546962/)
@@ -55,12 +55,12 @@ AI/ML
 2. Explainable AI with Grad-CAM
       * [Code](https://github.com/bismillahkani/grad-cam)
       * [Event Page](https://www.meetup.com/Disrupt-4-0/events/zfsxrrybcjbrb/)
-      * [Recording](https://www.youtube.com/watch?v=VG8meYovZIE) (Restricted access)
+      * [Recording](https://www.youtube.com/watch?v=VG8meYovZIE)
       
 3. Object detection with Detection Transformers -DETR
       * [Code](https://github.com/bismillahkani/detection-transformers)
       * [Event Page](https://www.meetup.com/Disrupt-4-0/events/xqxlsrybclbcb/)
-      * [Recording](https://www.youtube.com/watch?v=pKFvA2S_n7Y) (Restricted access)
+      * [Recording](https://www.youtube.com/watch?v=pKFvA2S_n7Y) 
       * [Blog](https://www.cellstrat.com/2020/08/07/end-to-end-object-detection-with-transformers/)
       
 4. Chest X-ray Analyzer - AI Research Day
@@ -73,16 +73,16 @@ AI/ML
       * [Code](https://github.com/bismillahkani/object-detection-rcnn-family)
       * [Session 1](https://www.meetup.com/Disrupt-4-0/events/272547378/)
       * [Session 2](https://www.meetup.com/Disrupt-4-0/events/272927751/)
-      * [Recording](https://www.youtube.com/watch?v=D9fjievbljo) (Restricted access)
+      * [Recording](https://www.youtube.com/watch?v=D9fjievbljo) 
 6. Image processing with CNN
       * [Event Page](https://www.meetup.com/Disrupt-4-0/events/272556573/)
       * [Code](https://colab.research.google.com/drive/1fgTz8Tw1HHfVuyWCWyzjJaMg4SE9DpUd?authuser=1)
-      * [Recording](https://www.youtube.com/watch?v=oi_n1OSHDbo) (Restricted access)
+      * [Recording](https://www.youtube.com/watch?v=oi_n1OSHDbo) 
      
 7. Image generation with DCGAN and SRGAN
       * [Event Page](https://www.meetup.com/Disrupt-4-0/events/273921687/)
       * [Code](https://drive.google.com/file/d/1heci5laE-T0_1cPeQt1D96j9jIsqkv5q/view?usp=sharing)
-      * [Recording](https://www.youtube.com/watch?v=yzdQB0sVd90) (Restriced access)
+      * [Recording](https://www.youtube.com/watch?v=yzdQB0sVd90) 
 
 8. Human Pose Estimation with Deep Learning
       * [Event Page](https://www.meetup.com/Disrupt-4-0/events/275535348/)
