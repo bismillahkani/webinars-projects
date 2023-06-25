@@ -14,11 +14,11 @@ Generative AI
      * [Blog](https://dev.to/aws-builders/generative-ai-using-aws-sagemaker-jumpstart-1ckm)
 3. Google Cloud Community Day 2023 - Exploring GenAI using Diffusion Models
      * [Slides](https://docs.google.com/presentation/d/1y2MdPOOsUOad2HLMW8oLdXWs89Z-vJwtrotJbRCXhMA/edit#slide=id.g24449df9f19_0_209)
-     * [Code](Coming Soon)
+     * [Code] Coming Soon
      * [Event Page](https://www.linkedin.com/feed/update/urn:li:activity:7065272788659355648/)
 4. Exploring GenAI with Diffusion Models
      * [Slides](https://www.canva.com/design/DAFkcLniFz0/UJeMi5hfx9816vM6__Y_ow/edit?utm_content=DAFkcLniFz0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-     * [Event Page](https://www.meetup.com/bangalore-ai-ml-meetup/events/293296187/
+     * [Event Page](https://www.meetup.com/bangalore-ai-ml-meetup/events/293296187/)
      * [Community Post](https://www.linkedin.com/feed/update/urn:li:activity:7071458606428155904/)
        
 Cloud
