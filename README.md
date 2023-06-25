@@ -1,6 +1,9 @@
-# List of AI/ML and Cloud Technologies webinars or projects
+# List of AI/ML. Generative AI and Cloud Technologies webinars or projects
 
 This repository is a compiled list of my past webinars/meetups/projects, their code repos and my future ones as well.
+
+Generative AI
+=============
 
 1. Classification of Imbalanced data
       * [Code](https://github.com/bismillahkani/imbalanced-learning)
