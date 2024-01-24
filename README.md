@@ -20,6 +20,12 @@ Generative AI
      * [Slides](https://www.canva.com/design/DAFkcLniFz0/UJeMi5hfx9816vM6__Y_ow/edit?utm_content=DAFkcLniFz0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
      * [Event Page](https://www.meetup.com/bangalore-ai-ml-meetup/events/293296187/)
      * [Community Post](https://www.linkedin.com/feed/update/urn:li:activity:7071458606428155904/)
+5. Gen AI AWS Community Builder Hackathon - Winner
+     * [Blog](https://dev.to/aws-builders/aws-cost-advisor-cb-ai-hackathon-44ck)
+6. Improving the Performance of RAG Systems Using llama-Index- A Practical Approach
+     * [Event Page](https://www.meetup.com/disrupt-4-0/events/294114286/)
+     * [Slides](https://www.canva.com/design/DAF3HrNNq1M/Sl3MxlLbF9nF6QjLp9k1ng/view?utm_content=DAF3HrNNq1M&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+     * [Code](https://github.com/bismillahkani/rag)
        
 Cloud
 =====
