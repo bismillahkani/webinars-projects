@@ -26,6 +26,7 @@ Generative AI
      * [Event Page](https://www.meetup.com/disrupt-4-0/events/294114286/)
      * [Slides](https://www.canva.com/design/DAF3HrNNq1M/Sl3MxlLbF9nF6QjLp9k1ng/view?utm_content=DAF3HrNNq1M&utm_campaign=designshare&utm_medium=link&utm_source=editor)
      * [Code](https://github.com/bismillahkani/rag)
+     * [Recordin](https://drive.google.com/file/d/103P-nryA6vSGSfaszjzZg2BCQvFzcmhE/view)
        
 Cloud
 =====
